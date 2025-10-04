@@ -1,0 +1,14 @@
+# Traffic Video Processor - YOLO v8 Dependencies
+# Install with: pip install -r requirements.txt
+
+# Core ML and Computer Vision
+ultralytics>=8.3.0
+opencv-python>=4.8.0
+
+# Web Framework
+flask>=2.3.0
+werkzeug>=2.3.0
+
+# Additional utilities
+numpy>=1.24.0
+pillow>=9.5.0
